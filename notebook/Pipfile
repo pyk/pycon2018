@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyterlab = "*"
+torch = "==0.4.1"
+torchvision = "==0.2.1"
+scikit-learn = "*"
+matplotlib = "*"
+mypy = "*"
+"flake8" = "*"
+flask = "*"
+black = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"

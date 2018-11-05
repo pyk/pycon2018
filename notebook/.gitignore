@@ -1,0 +1,5 @@
+.vscode
+.mypy_cache
+.ipynb_checkpoints
+*.pickle
+.DS_Store
